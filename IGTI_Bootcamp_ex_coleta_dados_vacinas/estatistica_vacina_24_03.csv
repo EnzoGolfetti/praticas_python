@@ -1,0 +1,151 @@
+,pais,total_vacinas,vacinaçoes_diarias,vacinas
+0,United States,126509736.0,1287547.2391304348,"['Johnson&Johnson, Moderna, Pfizer/BioNTech']"
+1,China,74956000.0,726636.8210526316,"['Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac']"
+2,India,48494594.0,638725.8181818182,"['Covaxin, Oxford/AstraZeneca']"
+3,United Kingdom,30279360.0,291168.1224489796,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+4,England,25476409.0,245117.14285714287,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+5,Brazil,14116560.0,203547.04615384617,"['Oxford/AstraZeneca, Sinovac']"
+6,Turkey,13265952.0,196659.9411764706,['Sinovac']
+7,Germany,10862288.0,123357.11904761905,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+8,Israel,9780097.0,104455.13978494624,"['Moderna, Pfizer/BioNTech']"
+9,Chile,8725757.0,94559.8275862069,"['Pfizer/BioNTech, Sinovac']"
+10,France,8629076.0,96811.16666666667,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+11,Russia,8413713.0,83424.75257731958,"['EpiVacCorona, Sputnik V']"
+12,Indonesia,8226632.0,105837.66666666667,['Sinovac']
+13,Italy,8029789.0,88950.05882352941,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+14,United Arab Emirates,7374725.0,84357.45333333334,"['Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V']"
+15,Morocco,6781503.0,126216.11320754717,"['Oxford/AstraZeneca, Sinopharm/Beijing']"
+16,Spain,6321908.0,79456.63636363637,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+17,Mexico,5781359.0,58878.71590909091,"['Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V']"
+18,Poland,5026182.0,58588.867469879515,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+19,Bangladesh,4911902.0,86111.72727272728,['Oxford/AstraZeneca']
+20,Canada,4097934.0,37796.71428571428,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+21,Saudi Arabia,3333125.0,37742.16,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+22,Argentina,3142444.0,35351.65060240964,"['Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V']"
+23,Romania,2521512.0,28281.940476190477,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+24,Scotland,2407496.0,23100.071428571428,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+25,Serbia,2178930.0,29150.19178082192,"['Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V']"
+26,Hungary,2118256.0,23509.75,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V']"
+27,Netherlands,1887726.0,30817.053571428572,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+28,Wales,1619244.0,15502.69387755102,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+29,Nepal,1600000.0,29298.30769230769,['Oxford/AstraZeneca']
+30,Greece,1469020.0,16688.916666666668,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+31,Belgium,1420931.0,16197.481927710844,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+32,Czechia,1378657.0,15300.411764705883,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+33,Portugal,1351516.0,15169.317647058824,"['Moderna, Pfizer/BioNTech']"
+34,Austria,1301065.0,14351.869047619048,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+35,Sweden,1293923.0,14707.707317073171,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+36,Colombia,1215008.0,32971.93939393939,"['Pfizer/BioNTech, Sinovac']"
+37,Switzerland,1176875.0,18025.51923076923,"['Moderna, Pfizer/BioNTech']"
+38,Denmark,952732.0,10950.583333333334,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+39,Sri Lanka,838355.0,16410.88679245283,['Oxford/AstraZeneca']
+40,Finland,821334.0,9557.543209876543,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+41,Singapore,792423.0,11483.126984126984,"['Moderna, Pfizer/BioNTech']"
+42,Northern Ireland,776211.0,7448.15306122449,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+43,Norway,768468.0,8909.666666666666,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+44,Slovakia,756567.0,9554.907894736842,['Pfizer/BioNTech']
+45,Peru,689922.0,17405.05,['Sinopharm/Beijing']
+46,South Korea,681443.0,28142.48,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+47,Dominican Republic,675000.0,21724.35714285714,"['Oxford/AstraZeneca, Sinovac']"
+48,Ireland,668529.0,8149.474358974359,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+49,Bahrain,667155.0,6804.213483146067,"['Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V']"
+50,Japan,652698.0,16479.303030303032,['Pfizer/BioNTech']
+51,Qatar,615655.0,6282.2444444444445,['Pfizer/BioNTech']
+52,Azerbaijan,482664.0,7707.709677419355,['Sinovac']
+53,Malaysia,452919.0,14917.111111111111,"['Pfizer/BioNTech, Sinovac']"
+54,Ghana,420000.0,27157.529411764706,['Oxford/AstraZeneca']
+55,Lithuania,408014.0,4687.364705882353,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+56,Myanmar,380000.0,31947.1,['Oxford/AstraZeneca']
+57,Hong Kong,379600.0,10626.51724137931,"['Pfizer/BioNTech, Sinovac']"
+58,Bulgaria,376370.0,4386.108433734939,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+59,Croatia,365082.0,4215.329113924051,['Pfizer/BioNTech']
+60,Kuwait,360000.0,4816.915492957746,['Pfizer/BioNTech']
+61,Pakistan,350000.0,8015.7,"['Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V']"
+62,Uruguay,344285.0,13939.5,"['Pfizer/BioNTech, Sinovac']"
+63,Rwanda,338544.0,9741.2,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+64,Philippines,336656.0,12638.40909090909,['Sinovac']
+65,Costa Rica,312425.0,3244.5,['Pfizer/BioNTech']
+66,Panama,309660.0,5182.035714285715,['Pfizer/BioNTech']
+67,Slovenia,290220.0,3272.1666666666665,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+68,Australia,282184.0,8107.586206896552,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+69,Jordan,272648.0,3719.8676470588234,"['Pfizer/BioNTech, Sinopharm/Beijing']"
+70,Estonia,224511.0,2529.3333333333335,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+71,Maldives,212711.0,4710.585365853659,['Oxford/AstraZeneca']
+72,Mongolia,209278.0,6256.777777777777,['Oxford/AstraZeneca']
+73,South Africa,182983.0,5367.967741935484,['Johnson&Johnson']
+74,Cambodia,170659.0,4197.823529411765,['Sinopharm/Beijing']
+75,Bolivia,168477.0,3013.596153846154,['Sputnik V']
+76,Senegal,159168.0,5843.037037037037,['Sinopharm/Beijing']
+77,Lebanon,148119.0,3633.4594594594596,['Pfizer/BioNTech']
+78,Malta,145934.0,2047.6825396825398,['Pfizer/BioNTech']
+79,Ecuador,141191.0,2176.867924528302,['Pfizer/BioNTech']
+80,Cyprus,129438.0,1646.5342465753424,['Pfizer/BioNTech']
+81,Iran,124193.0,3045.4871794871797,['Sputnik V']
+82,Ukraine,121929.0,4051.1923076923076,['Oxford/AstraZeneca']
+83,Oman,120837.0,1393.297619047619,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+84,Kazakhstan,109995.0,2066.8478260869565,['Sputnik V']
+85,Latvia,105081.0,1359.904761904762,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+86,Seychelles,90150.0,1337.5,"['Oxford/AstraZeneca, Sinopharm/Beijing']"
+87,Algeria,75000.0,3289.0476190476193,['Sputnik V']
+88,Luxembourg,74255.0,835.8271604938271,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+89,Guatemala,69266.0,2559.6666666666665,['Moderna']
+90,Barbados,61752.0,1771.7058823529412,['Oxford/AstraZeneca']
+91,Afghanistan,54000.0,2250.409090909091,['Oxford/AstraZeneca']
+92,Thailand,53842.0,2895.714285714286,"['Oxford/AstraZeneca, Sinovac']"
+93,Gibraltar,53171.0,755.4929577464789,['Pfizer/BioNTech']
+94,Iceland,53019.0,572.5243902439024,"['Moderna, Oxford/AstraZeneca, Pfizer/BioNTech']"
+95,El Salvador,49000.0,1355.21875,['Oxford/AstraZeneca']
+96,Angola,49000.0,3305.4615384615386,['Oxford/AstraZeneca']
+97,Jersey,48732.0,691.1730769230769,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+98,Albania,48229.0,610.0307692307692,['Pfizer/BioNTech']
+99,Mozambique,46439.0,7740.0,['Sinopharm/Beijing']
+100,Zimbabwe,43294.0,1329.875,['Sinopharm/Beijing']
+101,Honduras,43073.0,1245.095238095238,"['Moderna, Oxford/AstraZeneca']"
+102,Cayman Islands,41155.0,461.3837209302326,['Pfizer/BioNTech']
+103,Laos,40732.0,,"['Sinopharm/Beijing, Sputnik V']"
+104,Macao,36459.0,834.5365853658536,"['Pfizer/BioNTech, Sinopharm/Beijing']"
+105,Vietnam,36082.0,2051.6,['Oxford/AstraZeneca']
+106,Isle of Man,33336.0,520.1785714285714,"['Oxford/AstraZeneca, Pfizer/BioNTech']"
+107,Bermuda,30481.0,463.546875,['Pfizer/BioNTech']
+108,Belarus,30000.0,405.2837837837838,['Sputnik V']
+109,Guernsey,29383.0,474.74468085106383,['Pfizer/BioNTech']
+110,New Zealand,27000.0,866.4074074074074,['Pfizer/BioNTech']
+111,Antigua and Barbuda,25677.0,871.1935483870968,['Oxford/AstraZeneca']
+112,Malawi,25589.0,4457.0,['Oxford/AstraZeneca']
+113,Guinea,25263.0,,['Sputnik V']
+114,Cote d'Ivoire,24728.0,1101.7619047619048,['Oxford/AstraZeneca']
+115,Uganda,23527.0,1136.75,['Oxford/AstraZeneca']
+116,Moldova,20494.0,927.375,['Oxford/AstraZeneca']
+117,Saint Lucia,20247.0,626.3225806451613,['Oxford/AstraZeneca']
+118,Kenya,20000.0,1011.2307692307693,['Oxford/AstraZeneca']
+119,Monaco,18081.0,227.58227848101265,['Pfizer/BioNTech']
+120,Jamaica,16096.0,2392.714285714286,['Oxford/AstraZeneca']
+121,Guyana,15524.0,399.6388888888889,['Oxford/AstraZeneca']
+122,Belize,15006.0,617.0,['Oxford/AstraZeneca']
+123,Paraguay,14696.0,524.8461538461538,['Sputnik V']
+124,Suriname,13749.0,412.14285714285717,['Oxford/AstraZeneca']
+125,Dominica,13565.0,459.07142857142856,['Oxford/AstraZeneca']
+126,Tunisia,12496.0,1021.3333333333334,"['Pfizer/BioNTech, Sputnik V']"
+127,Venezuela,12194.0,580.2666666666667,['Sputnik V']
+128,Northern Cyprus,11000.0,1105.75,"['Pfizer/BioNTech, Sinovac']"
+129,Faeroe Islands,9427.0,106.76923076923077,"['Moderna, Pfizer/BioNTech']"
+130,Saint Vincent and the Grenadines,9383.0,216.0,['Oxford/AstraZeneca']
+131,Grenada,8606.0,240.9375,['Oxford/AstraZeneca']
+132,Nigeria,8000.0,727.0,['Oxford/AstraZeneca']
+133,San Marino,7923.0,334.0,['Sputnik V']
+134,Saint Kitts and Nevis,7580.0,310.96,['Oxford/AstraZeneca']
+135,Montenegro,7298.0,223.75,"['Sinopharm/Beijing, Sputnik V']"
+136,Equatorial Guinea,6565.0,,['Sinopharm/Beijing']
+137,Turks and Caicos Islands,6433.0,222.0,['Pfizer/BioNTech']
+138,Anguilla,5348.0,130.62790697674419,['Oxford/AstraZeneca']
+139,North Macedonia,5300.0,189.0,['Pfizer/BioNTech']
+140,Greenland,5130.0,77.0,['Pfizer/BioNTech']
+141,Andorra,4914.0,76.29545454545455,['Pfizer/BioNTech']
+142,Liechtenstein,4215.0,74.14285714285714,"['Moderna, Pfizer/BioNTech']"
+143,Mauritius,3843.0,141.34782608695653,['Oxford/AstraZeneca']
+144,Saint Helena,3107.0,75.0,['Oxford/AstraZeneca']
+145,Falkland Islands,1732.0,147.0,['Oxford/AstraZeneca']
+146,Egypt,1315.0,219.0,['Sinopharm/Beijing']
+147,Trinidad and Tobago,991.0,71.41666666666667,['Oxford/AstraZeneca']
+148,Montserrat,932.0,33.4,['Oxford/AstraZeneca']
+149,Bahamas,110.0,,['Oxford/AstraZeneca']
