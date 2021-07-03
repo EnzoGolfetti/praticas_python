@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9ec472a-475c-488a-b975-0fa2fc7d582d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/.ipynb_checkpoints/Welcome to the Course-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/.ipynb_checkpoints/Introduction to Spark and Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/.ipynb_checkpoints/RDD Transformations and Actions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/.ipynb_checkpoints/lecture_notes-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/Introduction to Spark and Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/Lambda expressions .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/RDD Transformations and Actions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/example2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Big-Data-and-Spark/services.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/SF Salaries Exercise- Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/911.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/Finance Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/Finance Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Data-Capstone-Projects/precipitation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/.ipynb_checkpoints/MNIST with Multi-Layer Perceptron-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow Basics-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow Project Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow Project Exercise-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/.ipynb_checkpoints/Tensorflow with ContribLearn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/MNIST with Multi-Layer Perceptron.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/Tensorflow Basics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/Tensorflow Project Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/Tensorflow Project Exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/Tensorflow with ContribLearn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Deep Learning/bank_note_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forest Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forest Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/.ipynb_checkpoints/Decision Trees and Random Forests in Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forest Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forests in Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/kyphosis.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Decision-Trees-and-Random-Forests/loan_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/.ipynb_checkpoints/K Means Clustering with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/College_Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Means-Clustering/K Means Clustering with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/.ipynb_checkpoints/K Nearest Neighbors with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/Classified Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/K-Nearest-Neighbors/KNN_Project_Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Creating Fake Data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Ecommerce Customers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Linear-Regression/USA_Housing.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/.ipynb_checkpoints/Logistic Regression Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/.ipynb_checkpoints/Logistic Regression Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/.ipynb_checkpoints/Logistic Regression with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/Logistic Regression Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/Logistic Regression Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/Logistic Regression with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/titanic_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Logistic-Regression/titanic_train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP (Natural Language Processing) with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/.ipynb_checkpoints/NLP Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/NLP (Natural Language Processing) with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/NLP Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/NLP Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/SMSSpamCollection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/smsspamcollection/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Natural-Language-Processing/yelp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Principal-Component-Analysis/.ipynb_checkpoints/Principal Component Analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Principal-Component-Analysis/PCA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Principal-Component-Analysis/Principal Component Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/.ipynb_checkpoints/Advanced Recommender Systems with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/.ipynb_checkpoints/Recommender Systems with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/Advanced Recommender Systems with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/Movie_Id_Titles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/Recommender Systems with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/u.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Recommender-Systems/u.item" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines Project - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines Project -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/.ipynb_checkpoints/Support Vector Machines with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines Project .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Machine Learning Sections/Support-Vector-Machines/Support Vector Machines with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/.ipynb_checkpoints/Python Crash Course-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/.ipynb_checkpoints/pandas exercises-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/NumPy Arrays-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Indexing and Selection-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Operations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/NumPy/Numpy Operations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Data Input and Output-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/DataFrames-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Groupby-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Introduction to Pandas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Merging, Joining, and Concatenating -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Missing Data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Operations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/.ipynb_checkpoints/Series-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/DataFrames.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Excel_Sample.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Groupby.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Introduction to Pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Missing Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Operations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/Ecommerce Purchases Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/SF Salaries Exercise- Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/.ipynb_checkpoints/SF Salaries Exercise-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/Series.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pandas/multi_index_example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/SciPy/.ipynb_checkpoints/SciPy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Analysis/SciPy/SciPy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/.ipynb_checkpoints/Choropleth Maps-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2011_US_AGRI_Exports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2012_Election_Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2014_World_GDP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/2014_World_Power_Consumption" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Geographical Plotting/plotly_cheat_sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Advanced Matplotlib Concepts-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Concepts Lecture-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Matplotlib Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Built-in Data Visualization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Data Visualization Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/.ipynb_checkpoints/Pandas Data Visualization Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Data Visualization Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/df3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Plotly and Cufflinks/.ipynb_checkpoints/Plotly and Cufflinks-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Plotly and Cufflinks/Plotly and Cufflinks.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Categorical plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Distribution Plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Grids-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Matrix Plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Regression Plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Style and Color-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Categorical plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Distribution Plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Grids.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Matrix Plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Regression Plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Seaborn Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Seaborn Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Python-for-Data-Visualization/Seaborn/Style and Color.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apostilas_data_science_jupyter/Python-Data-Science-and-Machine-Learning-Bootcamp/Welcome to the Course.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2020-02-gentrification" />
+  </component>
+  <component name="ProjectId" id="1qfa8Ug1ynXZ0m7EBz2pTswQzL3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9ec472a-475c-488a-b975-0fa2fc7d582d" name="Default Changelist" comment="" />
+      <created>1617472938385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617472938385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1617472975950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.1496@0.0.1366.728" timestamp="1617472975950" />
+  </component>
+</project>
