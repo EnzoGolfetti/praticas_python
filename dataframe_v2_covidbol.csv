@@ -1,0 +1,31 @@
+ID,avaliação,survey,campeonato,rodada,Rodada_Quant,data,dia,mandante,visitante,vencedor,arena,mandanteplacar,visitanteplacar,estadomandante,estadovisitante,estadovencedor
+BRA-201,Relevante,"1,63",Brasileiro A,21,18,14/11/2020,sábado,Palmeiras,Fluminense,Palmeiras,Allianz Parque,2,0,SP,RJ,SP
+BRA-236,Relevante,"1,46",Brasileiro A,24,15,06/12/2020,domingo,Atlético-MG,Internacional,-,Mineirão,2,2,MG,RS,-
+BRA-245,Relevante,"2,43",Brasileiro A,25,14,13/12/2020,domingo,Flamengo,Santos,Flamengo,Maracanã,4,1,RJ,SP,RJ
+BRA-363,Muito Importante,"3,06",Brasileiro A,37,2,21/02/2021,domingo,Flamengo,Internacional,Flamengo,Maracanã,2,1,RJ,RS,RJ
+BRA-364,Muito Importante,"1,50",Brasileiro A,37,2,21/02/2021,domingo,Corinthians,Vasco,-,Neo Química Arena,0,0,SP,RJ,-
+BRA-373,Extremamente Importante,"2,94",Brasileiro A,38,1,25/02/2021,quinta-feira,São Paulo,Flamengo,São Paulo,Morumbi,2,1,SP,RJ,SP
+BRA-376,Extremamente Importante,"3,00",Brasileiro A,38,1,25/02/2021,quinta-feira,Internacional,Corinthians,-,Beira Rio,0,0,RS,SP,-
+BRA-59,Pouco relevante,"1,39",Brasileiro A,7,32,02/09/2020,quarta-feira,Botafogo-RJ,Coritiba,-,Nilton Santos (Engenhão),0,0,RJ,PR,-
+BRA-61,Pouco relevante,"1,09",Brasileiro A,7,32,02/09/2020,quarta-feira,Athletico Paranaense,Bragantino,-,Arena da Baixada,1,1,PR,SP,-
+BRB-177,Irrelevante,"1,11",Brasileiro B,18,21,26/10/2020,segunda-feira,Paraná,Oeste,Paraná,Durival Britto,4,0,PR,SP,PR
+BRB-243,Pouco relevante,"1,15",Brasileiro B,25,14,01/12/2020,terça-feira,Chapecoense,Cuiabá,Chapecoense,Arena Condá,1,0,SC,MT,SC
+BRB-244,Pouco relevante,"1,04",Brasileiro B,25,14,01/12/2020,terça-feira,CRB,CSA,-,Rei Pelé,0,0,AL,AL,-
+BRB-250,Relevante,"1,20",Brasileiro B,25,14,02/12/2020,quarta-feira,América,Cruzeiro,Cruzeiro,Independência,1,2,MG,MG,MG
+BRB-360,Relevante,"1,13",Brasileiro B,36,3,21/01/2021,quinta-feira,Chapecoense,Ponte Preta,Chapecoense,Arena Condá,1,0,SC,SP,SC
+BRB-375,Importante,"1,31",Brasileiro B,38,1,29/01/2021,sexta-feira,América,Avaí,América,Independência,2,1,MG,SC,MG
+BRB-380,Importante,"1,28",Brasileiro B,38,1,29/01/2021,sexta-feira,Chapecoense,Confiança,Chapecoense,Arena Condá,3,1,SC,SE,SC
+CB-10,Muito Importante,"2,65",Copa do Brasil 2020,Semifinal,2,30/12/2020,quarta-feira,São Paulo,Grêmio,-,Morumbi,0,0,SP,RS,-
+CB-13,Extremamente Importante,"2,96",Copa do Brasil 2020,Final,1,28/02/2021,domingo,Grêmio,Palmeiras,Palmeiras,Arena do Grêmio,0,1,RS,SP,SP
+CB-14,Extremamente Importante,"3,00",Copa do Brasil 2020,Final,1,07/03/2021,domingo,Palmeiras,Grêmio,Palmeiras,Allianz Parque,2,0,SP,RS,SP
+CB-6,Importante,"3,17",Copa do Brasil 2020,Quartas de final,3,18/11/2020,quarta-feira,São Paulo,Flamengo,São Paulo,Morumbi,3,0,SP,RJ,SP
+LIB-1,Irrelevante,"1,13",Libertadores 2020,Qualificatórias,6,26/02/2020,quarta-feira,Cerro Porteño,Barcelona SC,Barcelona SC,INT,0,4,INT,INT,INT
+LIB-109,Importante,"1,69",Libertadores 2020,Oitavas de final,4,01/12/2020,terça-feira,Santos,LDU de Quito,LDU de Quito,Vila Belmiro,0,1,SP,INT,INT
+LIB-127,Muito Importante,"3,20",Libertadores 2020,Semifinal,2,13/01/2021,quarta-feira,Santos,Boca Juniors,Santos,Vila Belmiro,3,0,SP,INT,SP
+LIB-128,Muito Importante,"3,37",Libertadores 2020,Semifinal,2,13/01/2021,quarta-feira,Palmeiras,River Plate,River Plate,Allianz Parque,0,2,SP,INT,INT
+LIB-129,Extremamente Importante,"3,59",Libertadores 2020,Final,1,30/01/2021,sábado,Palmeiras,Santos,Palmeiras,Allianz Parque,1,0,SP,SP,SP
+LIB-2,Irrelevante,"1,06",Libertadores 2020,Qualificatórias,6,26/02/2020,quarta-feira,Atlético Tucumán,Independiente Medellín,Atlético Tucumán,INT,1,0,INT,INT,INT
+LIB-20,Irrelevante,"1,09",Libertadores 2020,Fase de grupos,5,06/03/2020,sexta-feira,Alianza Lima,Nacional,Nacional,INT,0,1,INT,INT,INT
+LIB-3,Irrelevante,"1,06",Libertadores 2020,Qualificatórias,6,27/02/2020,quinta-feira,Guarani FC,Palestino,Guarani FC,INT,2,1,INT,INT,INT
+LIB-9,Irrelevante,"1,11",Libertadores 2020,Fase de grupos,5,04/03/2020,quarta-feira,Jorge Wilstermann,Colo Colo,Jorge Wilstermann,INT,2,0,INT,INT,INT
+LIB-93,Importante,"2,11",Libertadores 2020,Fase de grupos,5,22/10/2020,quinta-feira,Flamengo,Junior,Flamengo,Maracanã,3,1,RJ,INT,RJ
