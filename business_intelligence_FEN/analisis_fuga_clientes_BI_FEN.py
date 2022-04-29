@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 
 #config de la app
-st.set_page_config(layout='wide', menu_items={'About':'Hecho para la clase de BI en FEN (U.Chile) Mayo/2022'})
+st.set_page_config(layout='wide')
 
 #Agora tem que conseguir puxar o banco lá do Drive com a PyDrive e depois copiar as células que plotam os gráficos
 #Read dataset
