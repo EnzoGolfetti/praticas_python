@@ -57,20 +57,6 @@ fig_2.update_layout(width=1200,
 fig_2.update_yaxes(gridcolor='#CCCCCC')
 st.plotly_chart(fig_2)
 
-#Mirando la columna de Edad
-df_edad_aux = df_fuga['edad'].value_counts().to_frame().reset_index(drop=False).rename(columns={'index':'edad','edad':'count'}).astype({'edad':'int64'})
-df_edad_aux['coluna_auxiliar_color'] = 'color'
-fig = px.bar(df_edad_aux, x='edad', y='count', title='Distribución de clientes por edad', text_auto=True,
-             labels=dict(edad='Edad',count='Cantidad de Clientes'), color='coluna_auxiliar_color', color_discrete_sequence=['#7328EB'])
-fig.update_layout(width=1200,
-                  height=500,
-                  margin=dict(l=1,r=20,t=32,b=1), 
-                  paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='#FFFFFF',  showlegend=False, 
-                  title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', font_size=15
-                  )
-fig.update_yaxes(gridcolor='#CCCCCC')
-st.plotly_chart(fig)
-
 #Mirando la columna de educación
 df_educacion_aux = df_fuga.copy()
 df_educacion_aux['niv_educ'] = df_educacion_aux['niv_educ'].str.replace('BAS','Basica').str.replace('MED','Média').str.replace('TEC','Técnica').str.replace('UNV','Universitaria')
@@ -153,6 +139,20 @@ fig.update_layout(height=500,
 fig.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
 fig.update_yaxes(gridcolor='#CCCCCC')
 fig.show()
+
+#Mirando la columna de Edad
+df_edad_aux = df_fuga['edad'].value_counts().to_frame().reset_index(drop=False).rename(columns={'index':'edad','edad':'count'}).astype({'edad':'int64'})
+df_edad_aux['coluna_auxiliar_color'] = 'color'
+fig = px.bar(df_edad_aux, x='edad', y='count', title='Distribución de clientes por edad', text_auto=True,
+             labels=dict(edad='Edad',count='Cantidad de Clientes'), color='coluna_auxiliar_color', color_discrete_sequence=['#7328EB'])
+fig.update_layout(width=1200,
+                  height=500,
+                  margin=dict(l=1,r=20,t=32,b=1), 
+                  paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='#FFFFFF',  showlegend=False, 
+                  title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', font_size=15
+                  )
+fig.update_yaxes(gridcolor='#CCCCCC')
+st.plotly_chart(fig)
 
 #Visualizando columns de renta
 df_renta_aux = df_fuga.copy()
