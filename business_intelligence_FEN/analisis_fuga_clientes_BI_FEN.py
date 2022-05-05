@@ -44,11 +44,13 @@ slice_seguro = idx[idx['top'], idx['seguro']]
 slice_ciudad = idx[idx['top'], idx['ciudad']]
 slice_edad = idx[idx['mean'], idx['edad']]
 
-st.write('Principales estadísticas descritivas de las variables categóricas:')
-st.dataframe(df_fuga_describe_cat.style.set_properties(**{'background-color': '#A619D4'}, subset=slice_genero)\
+df_fuga_describe_cat = df_fuga_describe_cat.style.set_properties(**{'background-color': '#A619D4'}, subset=slice_genero)\
                                   .set_properties(**{'background-color': '#A619D4'}, subset=slice_educ)\
                                   .set_properties(**{'background-color': '#A619D4'}, subset=slice_ciudad)\
-                                  .set_properties(**{'background-color': '#A619D4'}, subset=slice_seguro))
+                                  .set_properties(**{'background-color': '#A619D4'}, subset=slice_seguro)
+                                  
+st.write('Principales estadísticas descritivas de las variables categóricas:')
+st.dataframe(df_fuga_describe_cat)
 
 st.header('Gráficos de la análisis univariada')
 
