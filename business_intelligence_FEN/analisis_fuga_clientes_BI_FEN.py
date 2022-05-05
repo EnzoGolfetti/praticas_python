@@ -34,23 +34,10 @@ st.dataframe(df_fuga.head())
 
 #describe
 #Describe dividido
-df_fuga_describe_cat = df_fuga.describe(include='all')
-df_fuga_describe_cat = df_fuga_describe_cat.loc[:, [ 'genero', 'niv_educ', 'e_civil', 'ciudad', 'seguro', 'fuga' ]]
-
-idx = pd.IndexSlice
-slice_genero = idx[idx['top'], idx['genero']]
-slice_educ = idx[idx['top'], idx['niv_educ']]
-slice_seguro = idx[idx['top'], idx['seguro']]
-slice_ciudad = idx[idx['top'], idx['ciudad']]
-slice_edad = idx[idx['mean'], idx['edad']]
-
-df_fuga_describe_cat = df_fuga_describe_cat.style.set_properties(**{'background-color': '#A619D4'}, subset=slice_genero)\
-                                  .set_properties(**{'background-color': '#A619D4'}, subset=slice_educ)\
-                                  .set_properties(**{'background-color': '#A619D4'}, subset=slice_ciudad)\
-                                  .set_properties(**{'background-color': '#A619D4'}, subset=slice_seguro)
+df_fuga_describe = df_fuga.describe()
                                   
-st.write('Principales estadísticas descritivas de las variables categóricas:')
-st.dataframe(df_fuga_describe_cat)
+st.write('Principales estadísticas descritivas del dataset:')
+st.dataframe(df_fuga_describe)
 
 st.header('Gráficos de la análisis univariada')
 
