@@ -41,20 +41,6 @@ st.dataframe(df_fuga_describe)
 
 st.header('Gráficos de la análisis univariada')
 
-#Mirando la columna de Edad
-df_edad_aux = df_fuga['edad'].value_counts().to_frame().reset_index(drop=False).rename(columns={'index':'edad','edad':'count'}).astype({'edad':'int64'})
-df_edad_aux['coluna_auxiliar_color'] = 'color'
-fig = px.bar(df_edad_aux, x='edad', y='count', title='Distribución de clientes por edad', text_auto=True,
-             labels=dict(edad='Edad',count='Cantidad de Clientes'), color='coluna_auxiliar_color', color_discrete_sequence=['#7328EB'])
-fig.update_layout(width=1200,
-                  height=500,
-                  margin=dict(l=1,r=20,t=32,b=1), 
-                  paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='#FFFFFF',  showlegend=False, 
-                  title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', font_size=15
-                  )
-fig.update_yaxes(gridcolor='#CCCCCC')
-st.plotly_chart(fig)
-
 #Mirando la columna de género
 df_genero_aux = df_fuga.copy()
 df_genero_aux['genero'] = df_genero_aux['genero'].str.replace('F','Femenino').str.replace('M','Masculino')
@@ -71,6 +57,19 @@ fig_2.update_layout(width=1200,
 fig_2.update_yaxes(gridcolor='#CCCCCC')
 st.plotly_chart(fig_2)
 
+#Mirando la columna de Edad
+df_edad_aux = df_fuga['edad'].value_counts().to_frame().reset_index(drop=False).rename(columns={'index':'edad','edad':'count'}).astype({'edad':'int64'})
+df_edad_aux['coluna_auxiliar_color'] = 'color'
+fig = px.bar(df_edad_aux, x='edad', y='count', title='Distribución de clientes por edad', text_auto=True,
+             labels=dict(edad='Edad',count='Cantidad de Clientes'), color='coluna_auxiliar_color', color_discrete_sequence=['#7328EB'])
+fig.update_layout(width=1200,
+                  height=500,
+                  margin=dict(l=1,r=20,t=32,b=1), 
+                  paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='#FFFFFF',  showlegend=False, 
+                  title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', font_size=15
+                  )
+fig.update_yaxes(gridcolor='#CCCCCC')
+st.plotly_chart(fig)
 
 #Mirando la columna de educación
 df_educacion_aux = df_fuga.copy()
@@ -119,6 +118,41 @@ fig_4.update_layout(width=1200,
                     title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', font_size=15)
 fig_4.update_yaxes(gridcolor='#CCCCCC')
 st.plotly_chart(fig_4)
+
+#Seguro
+df_seguro = df_fuga['seguro'].value_counts().to_frame()
+df_seguro['coluna_auxiliar_color'] = 'color'
+fig = px.bar(df_seguro, x=df_seguro.index, y='seguro', labels=dict(index='Seguro', seguro='Count'),
+             color='coluna_auxiliar_color', color_discrete_sequence=['#1B19D4'], text_auto=True)
+fig.update_layout(height=500, 
+                  width=1200, 
+                  margin=dict(l=1,r=20,t=50,b=1), 
+                  paper_bgcolor='rgba(0,0,0,0)', 
+                  plot_bgcolor='#FFFFFF', 
+                  showlegend=False, 
+                  title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', 
+                  font_size=15, title_text='Distribución del servicio de Seguro')
+fig.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
+fig.update_yaxes(gridcolor='#CCCCCC')
+fig.show()
+
+#Fuga
+df_fuga_grafico = df_fuga['fuga'].value_counts().to_frame()
+df_fuga_grafico['coluna_auxiliar_color'] = 'color'
+fig = px.bar(df_fuga_grafico, x=df_fuga_grafico.index, y='fuga', 
+            labels=dict(index='Fuga', seguro='Count'),
+             color='coluna_auxiliar_color', color_discrete_sequence=['#00266C'], text_auto=True)
+fig.update_layout(height=500, 
+                  width=1200, 
+                  margin=dict(l=1,r=20,t=50,b=1), 
+                  paper_bgcolor='rgba(0,0,0,0)', 
+                  plot_bgcolor='#FFFFFF', 
+                  showlegend=False, 
+                  title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', 
+                  font_size=15, title_text="Distribución de la Variable Objetivo 'Fuga'")
+fig.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
+fig.update_yaxes(gridcolor='#CCCCCC')
+fig.show()
 
 #Visualizando columns de renta
 df_renta_aux = df_fuga.copy()
