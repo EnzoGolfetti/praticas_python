@@ -108,9 +108,9 @@ st.plotly_chart(fig_4)
 #Seguro
 df_seguro = df_fuga['seguro'].value_counts().to_frame()
 df_seguro['coluna_auxiliar_color'] = 'color'
-fig = px.bar(df_seguro, x=df_seguro.index, y='seguro', labels=dict(index='Seguro', seguro='Count'),
+fig_14 = px.bar(df_seguro, x=df_seguro.index, y='seguro', labels=dict(index='Seguro', seguro='Count'),
              color='coluna_auxiliar_color', color_discrete_sequence=['#1B19D4'], text_auto=True)
-fig.update_layout(height=500, 
+fig_14.update_layout(height=500, 
                   width=1200, 
                   margin=dict(l=1,r=20,t=50,b=1), 
                   paper_bgcolor='rgba(0,0,0,0)', 
@@ -118,17 +118,17 @@ fig.update_layout(height=500,
                   showlegend=False, 
                   title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', 
                   font_size=15, title_text='Distribución del servicio de Seguro')
-fig.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
-fig.update_yaxes(gridcolor='#CCCCCC')
-fig.show()
+fig_14.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
+fig_14.update_yaxes(gridcolor='#CCCCCC')
+st.plotly_chart(fig_14)
 
 #Fuga
 df_fuga_grafico = df_fuga['fuga'].value_counts().to_frame()
 df_fuga_grafico['coluna_auxiliar_color'] = 'color'
-fig = px.bar(df_fuga_grafico, x=df_fuga_grafico.index, y='fuga', 
+fig_15 = px.bar(df_fuga_grafico, x=df_fuga_grafico.index, y='fuga', 
             labels=dict(index='Fuga', seguro='Count'),
              color='coluna_auxiliar_color', color_discrete_sequence=['#00266C'], text_auto=True)
-fig.update_layout(height=500, 
+fig_15.update_layout(height=500, 
                   width=1200, 
                   margin=dict(l=1,r=20,t=50,b=1), 
                   paper_bgcolor='rgba(0,0,0,0)', 
@@ -136,9 +136,9 @@ fig.update_layout(height=500,
                   showlegend=False, 
                   title_x=0.5, title_font_family='Open Sans', font_family='Open Sans', 
                   font_size=15, title_text="Distribución de la Variable Objetivo 'Fuga'")
-fig.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
-fig.update_yaxes(gridcolor='#CCCCCC')
-fig.show()
+fig_15.update_xaxes(categoryorder='array', categoryarray=['0','1','2','3'])
+fig_15.update_yaxes(gridcolor='#CCCCCC')
+st.plotly_chart(fig_15)
 
 #Mirando la columna de Edad
 df_edad_aux = df_fuga['edad'].value_counts().to_frame().reset_index(drop=False).rename(columns={'index':'edad','edad':'count'}).astype({'edad':'int64'})
