@@ -315,7 +315,8 @@ color_discrete_map = {'NO FUGA':'#009900', 'FUGA':'#A61F08'}
 df_apoio_ciudades = df_fuga.groupby(['ciudad','fuga']).size().unstack()[df_fuga.groupby(['ciudad','fuga']).size().unstack()['FUGA'].notna()==True]
 fig_13 = px.bar(df_apoio_ciudades, 
                 labels=dict(ciudad='Ciudades', value='Count'), 
-                color_discrete_map=color_discrete_map
+                color_discrete_map=color_discrete_map,
+                text_auto = True
               )
 fig_13.update_layout(height=500, 
                     width=1200,
