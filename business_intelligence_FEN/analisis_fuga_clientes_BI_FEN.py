@@ -156,7 +156,7 @@ st.plotly_chart(fig)
 
 #Visualizando columns de renta
 df_renta_aux = df_fuga.copy()
-df_renta_aux['renta'] = df_renta_aux['renta'] / 100000
+df_renta_aux['renta'] = df_renta_aux['renta'] / 1000000
 df_renta_aux['coluna_auxiliar_color'] = 'color'
 fig_5 = px.histogram(df_renta_aux, x='renta', nbins=100, title='Distribución de la renta', 
                     labels=dict(renta='Renta (en millones de pesos chilenos)'), 
