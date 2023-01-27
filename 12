@@ -1,0 +1,2 @@
+Requirement already satisfied: pytube3 in e:\apps\anaconda1\lib\site-packages (9.6.4)
+Requirement already satisfied: typing-extensions in e:\apps\anaconda1\lib\site-packages (from pytube3) (3.7.4.3)
