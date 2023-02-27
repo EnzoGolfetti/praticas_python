@@ -21,7 +21,7 @@ import numpy as np
 print(datetime.datetime.now())
 
 def esperar(segundos=None):
-    """Casos nenhum valor seja atribuido, 
+    """Caso nenhum valor seja atribuido, 
     será atribuido um tempo randomico entre 2 e 8
     (Feito desta forma para simular a ação de um usuário)"""
     if not segundos:
@@ -29,8 +29,8 @@ def esperar(segundos=None):
     time.sleep(segundos)
 
 #Definindo credenciais
-site_login = os.environ.get('**********')
-site_pwd = os.environ.get('**********')
+site_login = os.environ.get('USERNAME_PROJETO_JULIA')
+site_pwd = os.environ.get('PASSWORD_PROJETO_JULIA')
 
 #Criar um objeto do Selenium
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
@@ -71,7 +71,8 @@ barrra_de_pesquisa = driver.find_element(By.XPATH, '//*[starts-with(@id, "input_
 esperar(10)
 
 #Lista de itens que serão pesquisados na barra de pesquisa
-lista_itens = ['refresco', 'Biscoito integral', 'Biscoito de polvilho', 'Biscoito água e sal', 'salsicha', 'salame', 'paio', 'nuggets', 'steaks', 
+lista_itens = ['refresco', 'pó para bebida', 'nuggets', 'presunto cozido', 'apresuntado', 'mortadela', 'linguiça',
+                'Biscoito integral', 'Biscoito de polvilho', 'Biscoito água e sal', 'salsicha', 'salame', 'paio', 'steaks', 
                 'hambúrguer', 'hamburguer', 'barbecue', 'molho de alho', 'molho de pimenta', 'molho inglês', 'ketchup', 'molho para salada', 
                 'maionese', 'mostarda', 'shoyu', 'tempero para', 'tempero pronto', 'preparado para'
             ]
@@ -355,7 +356,7 @@ for item in lista_itens:
                             df_temp = pd.DataFrame.from_dict(dict_forms_products_2, orient='index')
                             df_temp = df_temp.rename(columns={dict_de_para_codigos[pergunta_substituir] : 'Subgrupo do alimento'})
                             #Exporta o DataFrame
-                            df_temp.to_csv(f"banco_dados_tcc_julia_produtos_numero_{counter_product - 20}_a_{counter_product}_{str(datetime.datetime.today().date()).replace('-', '')}_v9.csv",
+                            df_temp.to_csv(f"banco_dados_tcc_julia_produtos_numero_{counter_product - 20}_a_{counter_product}_{str(datetime.datetime.today().date()).replace('-', '')}_v11.csv",
                                         sep=';', encoding='ISO-8859-1', index=True
                                         )
                     
@@ -566,7 +567,7 @@ for item in lista_itens:
                                 df_temp = pd.DataFrame.from_dict(dict_forms_products_2, orient='index')
                                 df_temp = df_temp.rename(columns={dict_de_para_codigos[pergunta_substituir] : 'Subgrupo do alimento'})
                                 #Exporta o DataFrame
-                                df_temp.to_csv(f"banco_dados_tcc_julia_produtos_numero_{counter_product - 20}_a_{counter_product}_{str(datetime.datetime.today().date()).replace('-', '')}_v9.csv",
+                                df_temp.to_csv(f"banco_dados_tcc_julia_produtos_numero_{counter_product - 20}_a_{counter_product}_{str(datetime.datetime.today().date()).replace('-', '')}_v11.csv",
                                             sep=';', encoding='ISO-8859-1', index=True
                                             )
                         
@@ -785,7 +786,7 @@ for item in lista_itens:
                                         df_temp = pd.DataFrame.from_dict(dict_forms_products_2, orient='index')
                                         df_temp = df_temp.rename(columns={dict_de_para_codigos[pergunta_substituir] : 'Subgrupo do alimento'})
                                         #Exporta o DataFrame
-                                        df_temp.to_csv(f"banco_dados_tcc_julia_produtos_numero_{counter_product - 20}_a_{counter_product}_{str(datetime.datetime.today().date()).replace('-', '')}_v9.csv",
+                                        df_temp.to_csv(f"banco_dados_tcc_julia_produtos_numero_{counter_product - 20}_a_{counter_product}_{str(datetime.datetime.today().date()).replace('-', '')}_v11.csv",
                                                     sep=';', encoding='ISO-8859-1', index=True
                                                     )
                                 
